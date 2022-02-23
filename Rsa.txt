@@ -1,0 +1,14 @@
+take p
+take q
+product of 2 prime numbers N=p*q
+taking N as the large number
+e = derived number
+e >1 
+e<(p-1)
+e<(q-1)
+no common factors b/w p-1 and q-1
+private key d =
+ed = 1 mod (p-1) (q-1)
+to encrypt 
+C = Pe mod n
+plain text  =Cd mod n
